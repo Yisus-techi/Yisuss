@@ -1,9 +1,6 @@
 # Mi primer programa en GitHub: Calculadora básica
 
 **Autor:** Jesús Ángel Melo Solís  
-**Institución:** CBTA 126  
-**Grupo:** 5.º A  
-**Carrera:** Ofimática
 
 ## Descripción
 
